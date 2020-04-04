@@ -1,0 +1,4 @@
+package collections
+
+sourcedir = collections
+modules = collections.HashMap
